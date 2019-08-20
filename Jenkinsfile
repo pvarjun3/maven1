@@ -8,3 +8,4 @@ stage('mvn compile')
 {
 sh 'mvn package'
 }
+}
